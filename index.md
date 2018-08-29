@@ -189,6 +189,9 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 
+<!-- #uncomment when survey links are provided.
+
+
 {% if site.carpentry == "swc" %}
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
@@ -202,7 +205,7 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endif %}
 
 <hr/>
-
+-->
 
 {% comment %}
   SCHEDULE
